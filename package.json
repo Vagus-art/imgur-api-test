@@ -1,0 +1,20 @@
+{
+  "name": "imgur-api-test",
+  "version": "1.0.0",
+  "description": "imgur api test for artistry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vagus-art/imgur-api-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vagus-art/imgur-api-test/issues"
+  },
+  "homepage": "https://github.com/Vagus-art/imgur-api-test#readme"
+}
