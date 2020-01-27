@@ -26,11 +26,11 @@ const readImage = (file) =>{
 }
 
 const onChange = (event) => {
-  /*
+
     const file = event.srcElement.files[0];
     const img = readImage(file);
     const image = document.getElementById("image");
-    image.parentNode.replaceChild(img,image);*/
+    image.parentNode.replaceChild(img,image);
 }
 
 const submitFile = async (event) => {
