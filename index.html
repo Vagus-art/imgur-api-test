@@ -7,10 +7,14 @@
     <title>Document</title>
   </head>
   <body>
-    <form id="myform" onsubmit="submitFile()" method="POST" enctype=multipart/form-data>
+    <form id="myform" onsubmit="submitFile(event)" method="POST" enctype=multipart/form-data>
       <input type="file" name="myfile" onchange="onChange(event)" />
       <input type="submit" value="submit" />
     </form>
+  <div id="image">
+  </div>
+
+  </aside>
   </body>
   <script src="index.js"></script>
 </html>
